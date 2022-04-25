@@ -13,7 +13,7 @@ public class DemoApplication {
 
 	@GetMapping("/message")
 	public String getMessage(){
-		return "this is spring boot github";
+		return "this ifff";
 	}
 
 	public static void main(String[] args) {
